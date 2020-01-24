@@ -1,0 +1,12 @@
+GIT - GITHUB
+vantagens:
+    backup
+    controle de versao
+    trabalho em equipe
+    portfolio
+
+git:
+    sistema de controle de versao
+
+github:
+    comunidade de compartilhamento de arquivos
