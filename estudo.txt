@@ -10,3 +10,17 @@ git:
 
 github:
     comunidade de compartilhamento de arquivos
+comandos:
+    git config user.name: usuario atual
+    git config --global user.name: modifica usuario atual
+
+    git config user.email: email atual
+    git config --global user.email: modifica o email atual
+
+    git config core.editor: caminho do editor padrao
+    git config --global core.editor: modifca o editor atual
+
+    cd: navega nas pastas do sistema
+    ls: lista os arquivos de uma pasta
+    mkdir: criar uma pasta
+    touch: criar um arquivo
