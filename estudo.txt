@@ -22,5 +22,6 @@ comandos:
 
     cd: navega nas pastas do sistema
     ls: lista os arquivos de uma pasta
+    ls -a:lista todos os arquivos de uma pasta inclusive os ocultos
     mkdir: criar uma pasta
     touch: criar um arquivo

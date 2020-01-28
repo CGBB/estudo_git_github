@@ -1,0 +1,7 @@
+comandos do git:
+
+git status: verifica o estado do git da pasta
+git add: adiciona os arquivos para o conteiner
+git commint -m "": adiciona os conteines para o git
+git log: verifica a arvore de commits em detalhes
+git log --oneline: verifica a arvore de commits de forma resumida
