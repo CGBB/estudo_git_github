@@ -2,6 +2,9 @@ comandos do git:
 
 git status: verifica o estado do git da pasta
 git add: adiciona os arquivos para o conteiner
-git commint -m "": adiciona os conteines para o git
+git commint -m "": adiciona os conteines para o repositorio
 git log: verifica a arvore de commits em detalhes
 git log --oneline: verifica a arvore de commits de forma resumida
+git log --graph: mostra a arvore de commits de forma grafica
+git log --online --graph: mostra a arvore de commits de forma grafica e resumida
+git commit -am "": realiza a insercao do arquivo dentro do conteiner em seguida armazena no repositorio
