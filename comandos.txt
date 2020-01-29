@@ -16,3 +16,4 @@ git reset HEAD "": remove o arquivo do conteiner
 git reset --hard "": remove o nodo da arvore de commits
 git checkout -b <nome do ramo>: cria uma ramificacao na arvore de commits
 git merge <nome do ramo>: une o a ramificacao com o ramo master
+git log --oneline --graph --all: mostra todos os nodos incluindo as ramificacoes
