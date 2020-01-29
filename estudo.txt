@@ -26,3 +26,4 @@ comandos:
     mkdir: criar uma pasta
     touch: criar um arquivo
 testando ramificacoes:
+desenvolvendo modulos de uso padrao
