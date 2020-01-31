@@ -25,6 +25,7 @@ comandos:
     ls -a:lista todos os arquivos de uma pasta inclusive os ocultos
     mkdir: criar uma pasta
     touch: criar um arquivo
+    cd ..: retorna para o diretorio anterior
 testando ramificacoes:
 desenvolvendo modulos de uso padrao
 modulos de uso padrao finalizados
