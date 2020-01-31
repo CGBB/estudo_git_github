@@ -22,3 +22,5 @@ git merge <nome do ramo>: une o a ramificacao com o ramo master
 git log --oneline --graph --all: mostra todos os nodos incluindo as ramificacoes
 git remote: verifica se tem um repositorio remoto
 git remote -v: verifica os detalhes do repositorio remoto
+git remote add origin <endereco do git>: adiciona o endereco do repositorio do git-hub ao git
+git push -u origin master: transfere os arquivos do git para o repositorio remoto (apenas se estiver no nodo master)
