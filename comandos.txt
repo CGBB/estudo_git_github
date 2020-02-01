@@ -26,3 +26,5 @@ git clone <endereco do repositorio github>: clona o repositorio do github para u
 git remote add origin <endereco do git>: adiciona o endereco do repositorio do git-hub ao git
 git push -u origin master: transfere os arquivos do git para o repositorio remoto (apenas se estiver no nodo master)
 git pull: carrega no repositorio local todas as alteracoes do respositorio remoto
+git fecht: baixa as alteracoes do repositorio remoto porem se fazer merge dos arquivos
+git pull: baixa as alteracoes do repositorio remoto e realiza o merge dos arquivos
