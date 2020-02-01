@@ -26,8 +26,20 @@ comandos:
     mkdir: criar uma pasta
     touch: criar um arquivo
     cd ..: retorna para o diretorio anterior
-testando ramificacoes:
-desenvolvendo modulos de uso padrao
-modulos de uso padrao finalizados
-arquivo de otimizacao inserido
-criando a interface melhorada
+
+sincronizando arquivos em diferentes repositorios:
+abra o primeiro respositorio
+realiza as modificacoes nescessarias
+commit as modificacoes
+envie as alteracoes para o repositorio remoto
+
+abra o segundo repositorio
+realize as modificacoes nescessarias
+commit as modificacoes
+porem nao sera possivel enviar as alteracoes para o repositorio remoto pois elas estao em conflito
+baixa as modificacoes que estao no repositorio remoto (git fecht) porem ser fazer o merge delas
+altere o head para o repositorio remoto com git checkout origin
+verifique as modificacoes
+retorne para o repositorio master
+use o comando git pull e resolva os conflitos entre os 2 repositorio
+
